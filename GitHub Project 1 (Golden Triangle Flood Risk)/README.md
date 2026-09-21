@@ -102,7 +102,7 @@ This is a map of the results shown for an analysis of Orange County.
 
 
 
-!GitHub Project 1 (Golden Triangle Flood Risk)/images/orange_county_results.png
+GitHub Project 1 (Golden Triangle Flood Risk)/images/orange_county_results.png
 
 
 
