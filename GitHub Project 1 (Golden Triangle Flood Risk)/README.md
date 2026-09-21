@@ -10,7 +10,7 @@ This project identifies public schools that are located within or near FEMA-desi
 
 
 
-This project was created using Python and Arcpy that incorporates an interactive workflow. The analysis allows a user to select one of three of the counties and a flood-zone buffer distance. The script will then generate flood-hazard data as well as a list of public schools that fall into the analysis area.
+This project was created using Python and Arcpy that incorporates an interactive workflow. The analysis allows a user to select one of the three analyzed counties and a flood-zone buffer distance. The script will then generate flood-hazard data as well as a list of public schools that fall into the analysis area.
 
 \---------
 
