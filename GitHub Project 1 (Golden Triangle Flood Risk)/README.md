@@ -101,7 +101,7 @@ The following steps were used to perform the analysis:
 
 
 
-This is a map of the results shown for an analysis of Orange County.
+This is an image of the results shown for an analysis of Orange County.
 
 
 
