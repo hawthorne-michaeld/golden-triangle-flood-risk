@@ -26,6 +26,9 @@ The study area used in this project are the three counties that consist of the G
 
   * Orange County
 
+Here is an image of the overall study area:
+![Study Area](images/study_area.png)
+
 \--------
 
 **Project Objectives**
