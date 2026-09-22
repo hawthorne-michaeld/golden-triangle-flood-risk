@@ -165,19 +165,19 @@ The full project report can be perused. This report is located within the **docs
 
 golden-triangle-flood-risk
 
-  * code/
+  * code
 
     * term\_project\_notebook.ipynb
 
     * term\_project\_module.py
 
-  * images/
+  * images
 
     * study\_area.png
 
     * orange\_county\_results.png
 
-  * docs/
+  * docs
 
     * flood\_risk\_project\_report.pdf
 
