@@ -1,6 +1,6 @@
 **Identifying At-Risk Public Schools Near Flood-Hazard Areas in the Texas Golden Triangle**
 
-**--------**
+--------
 
 **Project Overview**
 
@@ -12,7 +12,7 @@ This project identifies public schools that are located within or near FEMA-desi
 
 This project was created using Python and Arcpy that incorporates an interactive workflow. The analysis allows a user to select one of the three analyzed counties and a flood-zone buffer distance. The script will then generate flood-hazard data as well as a list of public schools that fall into the analysis area.
 
-\---------
+---------
 
 **Study Area**
 
@@ -29,7 +29,7 @@ The study area used in this project are the three counties that consist of the G
 Here is a map of the overall study area:
 ![Study Area](images/study_area.png)
 
-\--------
+--------
 
 **Project Objectives**
 
@@ -49,7 +49,7 @@ The objectives of this project were to:
 
   * Outcome produces working GIS layers and a school list meeting the selected criteria.
 
-\--------
+--------
 
 **Tools and Technology**
 
@@ -65,7 +65,7 @@ The objectives of this project were to:
 
   * FEMA flood-hazard data
 
-\--------
+--------
 
 **Analysis Workflow**
 
@@ -95,7 +95,7 @@ The following steps were used to perform the analysis:
 
   11. A report is then made that lists out the schools that meet the analysis criteria.
 
-\--------
+--------
 
 **Results**
 
@@ -111,7 +111,7 @@ This is an image of the results shown for an analysis of Orange County.
 
 This output identified public school institutions that were within the flood-hazard area or those that fell within the buffer distance defined. The analysis can be adjusted depending on the user-defined buffer distance proximity.
 
-\--------
+--------
 
 **Python Implementation**
 
@@ -131,7 +131,7 @@ The Python module contains all of the functions used in the analysis.
 
 The entirety of the project code is available for perusal and use in the **code** directory.
 
-\--------
+--------
 
 **Data Sources**
 
@@ -149,7 +149,7 @@ The datasets used in analysis:
 
 The actual datasets used in analysis were not included here. The contents of this project include only the Python workflow, project documents, and an example of output analysis run by the program.
 
-\---------
+---------
 
 **Full Project**
 
@@ -157,7 +157,7 @@ The actual datasets used in analysis were not included here. The contents of thi
 
 The full project report can be perused. This report is located within the **docs** directory.
 
-\---------
+---------
 
 **Repository Layout**
 
@@ -183,7 +183,7 @@ golden-triangle-flood-risk
 
   * README.md
 
-\--------
+--------
 
 **Project Context**
 
